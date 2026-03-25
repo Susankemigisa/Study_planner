@@ -1,6 +1,6 @@
 # 📚 Prompt-Powered Kickstart: Building a Beginner's Toolkit for FastAPI
 
-**Student:** [Your Name]
+**Student:** Kemigisa Suzan
 **Cohort:** Moringa School — AI Capstone
 **Submission Date:** March 2026
 
