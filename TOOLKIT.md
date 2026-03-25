@@ -598,4 +598,4 @@ The React cursor bug, the CORS error, the PowerShell vs Command Prompt activatio
 
 ---
 
-*Document prepared with AI assistance via [ai.moringaschool.com](https://ai.moringaschool.com) — Moringa School AI Capstone, March 2026.*
+*Document prepared with AI assistance — Moringa School AI Capstone, March 2026.*
